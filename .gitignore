@@ -39,3 +39,11 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+
+# Ignore other unneeded files.
+doc/
+*.swp
+*~
+
+.project
+.DS_Store
